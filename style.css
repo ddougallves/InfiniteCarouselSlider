@@ -92,7 +92,7 @@ h1{
     bottom: 12px;
     left: 50%;
     transform: translateX(-50%);
-    /* border: 1px solid red; */
+    text-align: center;
 }
 
 .carousel-indicators span{
